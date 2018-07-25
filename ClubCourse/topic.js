@@ -3,7 +3,6 @@ var topic = [
     "今夜，在浪漫劇場與你相遇",
     "樂來樂愛你",
     "購物狂的異想世界",
-    "今生是第一次",
     "職場求愛記",
     "我的初戀情人",
     "好想告訴你",
@@ -20,4 +19,4 @@ function setMonthAndDay(startMonth, startDay)
     startDate.setSeconds(0);
 }
 
-setMonthAndDay(7,1);
+setMonthAndDay(7,30);

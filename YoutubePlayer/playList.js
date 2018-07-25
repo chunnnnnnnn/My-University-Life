@@ -2,12 +2,12 @@
 var playList = [
     "rRzxEiBLQCA",
     "LF-tHnkZMnM",
-    "NyXApXudtaU",
     "UL4RplV2Ugo",
     "DJnexzGhNAw",
+    "eeNhCFk_g1Q",
     "E9maPHhgPjc",
-    "EjWAdKWEVUE",
-    "Cltc9moMfqg",
+    "jLpiSOhlB0U",
+    "RrBc_JShIak",
     "POqzTqeQ8rM",
     "i0p1bmr0EmE"
 ];
@@ -15,13 +15,13 @@ var playList = [
 //播放起迄秒數
 var playTime = [
     [48,75],
-    [130,190],
-    [153,193],
+    [80,120],
     [53,90],
-    [12,71],
-    [55,80],
-    [188,265],
-    [166,196],
+    [34,72],
+    [46,77],
+    [56,81],
+    [11,76],
+    [51,77],
     [10,66],
     [176,217]
     
